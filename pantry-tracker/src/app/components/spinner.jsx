@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-
 import loader from './spinner.gif'
 
 const spinner = () => {
